@@ -21,13 +21,16 @@ veggy <- cabbages
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
-# Methods
 
 $H_0$: There is no difference in the vitamin c content of cabbages based on cultivation techniques.
 
 $H_A$: There is a difference in vitamin C content of cabbages based on cultivation Techniques.
 
+# Methods
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+
+The responce veriable (how much vitamin c) is numerical; the input variable is categorical. We have a Num ~ Cat
 
 # Results
 
