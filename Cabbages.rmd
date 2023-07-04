@@ -36,7 +36,14 @@ The responce veriable (how much vitamin c) is numerical; the input variable is c
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+
+
 ## Descriptive Results
+
+
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
 
 ### Graphical Descriptive Results
 
