@@ -76,4 +76,6 @@ The P-value (.00000003405) it is so small that I reject the $H_o$  Hypothesis. T
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+Is there a difference in average VitC between c39 and c52 cultivation methods? 
 
+Based on the T-test information,we found that the C52 cultivation is better than C39 cultivation.
