@@ -40,18 +40,25 @@ The responce veriable (how much vitamin c) is numerical; the input variable is c
 
 ## Descriptive Results
 
+### Numerical Descriptive Results
+
+<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
 
+This table shows the cultivation method C52 has a higher vitamin c content than does C39, C52 shows an average difference of about 13mg. 
+
 ### Graphical Descriptive Results
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-### Numerical Descriptive Results
+```{r}
+plot(VitC~Cult,data=veggy)
+```
 
-<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+this graph shows that C52 is higher in Vitamin C, then C39.
 
 ## Inferential Results
 
